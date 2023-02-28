@@ -1,0 +1,4 @@
+[[hooks]]
+stage = "build"
+command = "powershell"
+command_arguments = ["tailwinds -mo tailwind.css"]
